@@ -6,7 +6,7 @@ Sou um estudante de programação,e pretendo sempre melhorar tanto com meu conhe
 ### 📈 Minhas Estátisticas - Github 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorEspinosa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEspinosa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEspinosa&layout=compact&theme=tokyonight)
 
 ### 💻 Tecnologias que eu uso 🖱️
 ---
