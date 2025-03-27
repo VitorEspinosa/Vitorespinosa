@@ -1,7 +1,7 @@
 
 ### 👋 Olá! Eu sou o Vitor Ribeiro Espinosa! 👨‍💻
 ---
-Sou um estudante de programação a 2 anos e pretendo sempre melhorar tanto com meu conhecimento quanto nas minhas habilidades com programação.
+Sou um estudante de programação,e pretendo sempre melhorar tanto com meu conhecimento quanto nas minhas habilidades com programação.
 
 ### 📈 Minhas Estátisticas - Github 
 ---
