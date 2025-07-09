@@ -1,5 +1,5 @@
 
-### 👋 Olá! Eu sou o Vitor Ribeiro Espinosa! 👨‍💻
+### 👋 Olá! Eu sou Vitor Ribeiro Espinosa! 👨‍💻
 ---
 Sou um estudante de programação,e pretendo sempre melhorar tanto com meu conhecimento quanto nas minhas habilidades com programação.
 
